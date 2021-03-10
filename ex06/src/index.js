@@ -1,4 +1,4 @@
-function main () {
+function main() {
     
     var x = 7; 
     var y = 12; 
